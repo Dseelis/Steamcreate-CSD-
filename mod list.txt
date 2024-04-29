@@ -1,5 +1,4 @@
 ALL MODS FOR FABRIC LOADER
-
 ad_astra
 Ad-Astra-Giselle-Addon-fabric
 AdvancementPlaques
