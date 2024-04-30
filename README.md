@@ -1,3 +1,7 @@
+you can find our project on these websites:
+https://www.curseforge.com/minecraft/modpacks/steamcreatecsd (under moderation)
+https://modrinth.com/modpack/steamcreate-csd-alpha (under moderation)
+
 This project is inspired by another modpack, there will be new biomes, quests, building blocks, decorations, world generation.
 ![rea](https://cdn.modrinth.com/data/cached_images/38e793febfab39208cf87e4f0b924d4f445c3558.png)
 
