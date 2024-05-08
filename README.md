@@ -5,8 +5,8 @@ https://modrinth.com/modpack/steamcreate-csd
 This project is inspired by another modpack, there will be new biomes, quests, building blocks, decorations, world generation.
 ![rea](https://cdn.modrinth.com/data/cached_images/38e793febfab39208cf87e4f0b924d4f445c3558.png)
 
-# **The modpack is currently in alpha testing, possible crashes and more, there are no quests yet but they are in progress**
-![roadtorelease](https://cdn.modrinth.com/data/cached_images/8c3f74c826a43a1d897877ab0b1bea9f08acf8c0.png)
+# **The modpack is now a pre-release**
+![roadtorelease](https://cdn.modrinth.com/data/cached_images/cf3f5757691759b95b614689df7b028063c88751.png)
 
 
 ![fea](https://cdn.modrinth.com/data/cached_images/f4cd76d1c1aa3c5b7462465ca149f8cb3a9b2dee.png)
