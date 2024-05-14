@@ -1,180 +1,183 @@
-ALL MODS FOR FABRIC LOADER (outdated)
-ad_astra
-Ad-Astra-Giselle-Addon-fabric
-AdvancementPlaques
-animatica
-alternate-current-mc
-appleskin
-appliedenergistics2
-AttributeFix
-architectury
-balm
-bclib
-betterbiomeblend
-better-end
-better-nether
-blur
-botarium
-c2me
-cardinal-components-api
-cave-dust
-chassis
-chisel
-CITresewn
-cloth-config
-clumps
-collective
-comforts
-compressor
-continiuty
-controling
-corgilib
-create
-create-jetpack
-create-ore-excavation
-create-tag-fix
-create-big-canons
-create-new-age
-create-addition
-create-slice-dice
-create-sandpaper-overhaul
-creativecore
-ChoiceTheorem's-Overhauled-Village
-ChoiceTheorem's-Overhauled-Village-farmer's-delight
-cullleaves
-dawnapi
-debugify
-decorative-blocks
-deeper-and-darker
-delightful-creators
-diagonalfences
-DisableCustomWorldsAdvice
-drippyloadingscreen
-dungeonnowloading
-dungeons-and-taverns
-DungeonsArise
-dynamic-fps
-eating-animation
-enhancedblockentities
-entity_model_features
-entity_texture_features
-EnhancedWorkbenches
-entityculling
-expandeddelight
-ExtendedDrawers
-fabric-api
-end-remastered
-fabric-seasons
-fabric-seasons-delight
-fabric-language-kotlin
-fallingleaves-1.13.0+1.19.2
-fallingtrees
-factory-blocks
-fancymenu
-farmers-delight
-farmersknives
-ferritecore
-ForgeConfigAPIPort
-geophilic
-geckolib
-handcrafted
-Iceberg
-indium
-integrated_api
-integrated_stronghold
-InventoryProfilesNext
-Jade
-jamlib
-konkrete
-kubejsadditions
-kubejs-create
-kubejs
-lambdynamiclights
-lazydfu
-LegendaryTooltips
-libIPN
-lithium
-loadmyresources
-lootjs
-lootr
-majrusz-library
-majruszs-accessories
-majruszs-difficulty
-majruszs-enchantments
-melody
-memoryleakfix
-MES-Moog's-End-Structures
-Modern-Industrialization-Sound-Addon
-midnightlib
-mixintrace
-MNS-Moog's-Nether-Structures
-modernfix
-Modern-Industrialization
-modmenu
-moonlight
-MouseTweaks
-neruina
-notenoughanimations
-not-just-biomes
-Oh-The-Biomes-You'll-Go
-owo-lib
-packetfixer
-pandalib
-Patchouli
-punkui
-Philips-Ruins
-PickUpNotifier
-player-animation-lib
-polymorph
-ponderjs
-prism
-promenade
-puzzle
-puzzleslib
-reeses_sodium_options
-repurposed_structures
-resourcefulconfig
-resourcefullib
-respite-creators
-rhino
-right-click-harvest
-RoughlyEnoughItems
-seamless-loading-screen
-shulkerboxtooltip
-skinlayers3d
-SkyVillages
-sliceanddice
-smoothboot
-sodium-extra
-sodium
-spelunkery
-starlight
-stoneworks
-supplementaries
-tectonic
-TerraBlender
-Towns-and-Towers
-trainperspectivefix
-travelersbackpack
-TravelersTitles
-TravellersBootsReloaded
-trinkets
-visuality
-VisualWorkbench
-waveycapes
-Xaeros_Minimap
-XaerosWorldMap
-YetAnotherConfigLib
-YouDied
-youre-in-grave-danger
-YungsApi
-YungsBetterDesertTemples
-YungsBetterEndIsland
-YungsBetterDungeons
-YungsBetterJungleTemples
-YungsBetterMineshafts
-YungsBetterOceanMonuments
-YungsBetterNetherFortresses
-YungsBetterStrongholds
-YungsBetterWitchHuts
-Zoomify
+ALL MODS FOR FABRIC LOADER
+LambDynamicLights (by LambdAurora)
+YUNG's Better Strongholds (Fabric) (by YUNGNICKYOUNG)
+JourneyMap (by techbrew)
+Roughly Enough Items Fabric/Forge/NeoForge (REI) (by shedaniel)
+Fabric Seasons: Extras (by D4rkness_King)
+Alternate Current (by SpaceWalkerRS)
+Dawn API (by Hugman_76)
+Traveler's Backpack [Fabric] (by Tiviacz1337)
+Dynamic FPS (by juliand665)
+Create Big Cannons (by rbasamoyai)
+Create Crafts & Additions (by MRHminer)
+Towns and Towers (by Biban_Auriu)
+Animatica (by FoundationGames)
+ChoiceTheorem's Overhauled Village (by ChoiceTheorem)
+FTB XMod Compat (by FTB)
+Trinkets (Fabric) (by EmilyPloszaj)
+Fabric Seasons: Delight Compat (by D4rkness_King)
+Create: Train Perspective Fix (by MrJulsen)
+Inventory Profiles Next (by mirinimi)
+Handcrafted (by terrariumearth)
+End Remastered [Fabric] (by jack_bagel)
+BSL Shaders (by capttatsu)
+Create Fabric (by tropheusj)
+Spelunkery (by OrdanaryMods)
+You Died (by GoryMoon)
+[FABRIC/QUILT] Disable Custom Worlds Advice (by Nara)
+Drippy Loading Screen (by Keksuccino)
+Geophilic – Vanilla Biome Overhauls (by bebebea_loste)
+YUNG's API (Fabric) (by YUNGNICKYOUNG)
+Melody (by Keksuccino)
+Create: New Age (by nullBlade)
+Visuality (by PinkGoosik)
+Resourceful Lib (by ThatGravyBoat)
+Traveler's Titles (Fabric) (by YUNGNICKYOUNG)
+Starlight (Fabric) (by Spottedstar)
+More Mob Variants x Fresh Animations (by nyuppo)
+BCLib (by Quiqueck)
+ToolTipFix (by Kyrptonaught)
+Modern Industrialization Sound Addon (by static)
+Expanded Delight [Fabric] (by ianm1647)
+playerAnimator (by KosmX)
+Neruina - Ticking Entity Fixer (by bawnorton)
+AppleSkin (by squeek502)
+Bliss Shaders (by Xonk___)
+Create Jetpack (by possible_triangle)
+YUNG's Better Witch Huts (Fabric) (by YUNGNICKYOUNG)
+Architectury API (Fabric/Forge/NeoForge) (by shedaniel)
+Factory Blocks (by Slaincow)
+Pehkui (by Virtuoel)
+Philip's Ruins (by philipmoddev)
+Complementary Shaders - Reimagined (by EminGT)
+Debugify (by XanderIsDev)
+Cave Dust (by LizCannotEven)
+Polymorph (Fabric/Forge/Quilt) (by TheIllusiveC4)
+YUNG's Better Mineshafts (Fabric) (by YUNGNICKYOUNG)
+Cardinal Components API (by UpcraftLP)
+[Deprecated] Farmer's Delight [Fabric] (by NewHoryzon)
+Majrusz's Progressive Difficulty (by Majrusz17)
+Regions Unexplored (forge/fabric) (by UHQ_GAMES)
+Repurposed Structures (Fabric/Quilt) (by telepathicgrunt)
+BetterNether (by Quiqueck)
+bad packets (by badasintended)
+Chisel Reborn (by Slaincow)
+Sodium Extra (by FlashyReese)
+[ETF] Entity Texture Features - [Fabric & Forge] (by traben_0)
+MES - Moog's End Structures (by finndog_123)
+Seamless Loading Screen (by Minenash)
+YUNG's Better Dungeons (Fabric) (by YUNGNICKYOUNG)
+YUNG's Better Nether Fortresses (Fabric) (by YUNGNICKYOUNG)
+Dungeon Now Loading 1% (by hexnowloading)
+Enhanced Block Entities (by FoundationGames)
+Zoomify (by XanderIsDev)
+CIT Resewn (by SHsuperCM)
+libIPN (by mirinimi)
+Visual Workbench [Forge & Fabric] (by Fuzs)
+Majrusz Library (by Majrusz17)
+Iris Shaders (by coderbot)
+Majrusz's Accessories (by Majrusz17)
+Better Combat [Fabric & Forge] (by daedelus_dev)
+Ad Astra (by AlexNijjar)
+MNS - Moog's Nether Structures (by finndog_123)
+Prism [Fabric] (by Grend_G)
+Collective (by Serilum)
+PandaLib (by ThePandaOliver)
+You're in Grave Danger (by b1n_ry)
+Deeper and Darker (by KyaniteMods)
+Wavey Capes (by tr7zw)
+YetAnotherConfigLib (by XanderIsDev)
+YUNG's Better Desert Temples (Fabric) (by YUNGNICKYOUNG)
+CorgiLib (by Corgi_Taco)
+Iceberg [Fabric] (by Grend_G)
+Searchables (by Jaredlll08)
+Balm (Fabric Edition) (by BlayTheNinth)
+oωo (owo-lib) (by gliscowo)
+Enhanced Celestials(Fabric) - Blood Moons & Harvest Moons (by Corgi_Taco)
+CC: Tweaked (by SquidDev)
+Panda's Falling Tree's (by ThePandaOliver)
+Puzzle (by Motschen)
+Not Just Biomes (by Apollo)
+Artifacts (by ochotonida)
+Farmer's Delight Refabricated (by MerchantPug)
+Not Enough Animations (by tr7zw)
+Integrated API (by CraisinLord)
+Mod Menu (by Prospector)
+FerriteCore (Fabric) (by malte0811)
+Lithostitched (by Apollo)
+MidnightLib (by TeamMidnightDust)
+Create Questing (by ElocinDev)
+Patchouli (Fabric/Quilt) (by Vazkii)
+Enhanced Workbenches (by Luligabi12)
+Lithium (Fabric) (by jellysquid3_)
+Moonlight Lib (by MehVahdJukaar)
+MixinTrace (by comp500)
+Promenade (by Hugman_76)
+Supplementaries (by MehVahdJukaar)
+TerraBlender (Fabric) (by TheAdubbz)
+FTB Quests (Fabric) (by FTB)
+FancyMenu (by Keksuccino)
+CC:C Bridge (by Sammy_echt)
+Falling Leaves (Fabric) (by RandomMcSomethin)
+FTB Teams (Fabric) (by FTB)
+Pick Up Notifier [Forge & Fabric] (by Fuzs)
+Necronomicon API (by ElocinDev)
+Continuity (by Pepper_Bell)
+Cloth Config API (Fabric/Forge/NeoForge) (by shedaniel)
+Controlling (by Jaredlll08)
+Cull Less Leaves (by XanderIsDev)
+Beautify: Refabricated (by Suel_ki)
+RightClickHarvest (by jamalam360)
+Integrated Stronghold (by CraisinLord)
+Blur+ (Fabric) (by Motschen)
+Fabric API (by modmuss50)
+Cristel Lib (by Cristelknight)
+JamLib (by jamalam360)
+Forge Config API Port (by Fuzs)
+Indium (by comp500)
+Applied Energistics 2 (by thetechnici4n)
+Mouse Tweaks (by YaLTeR)
+Skin Layers 3D (Fabric/Forge) (by tr7zw)
+Tectonic (by Apollo)
+Jade Addons (Fabric) (by Snownee)
+YUNG's Better Jungle Temples (Fabric) (by YUNGNICKYOUNG)
+YUNG's Better End Island (Fabric) (by YUNGNICKYOUNG)
+BadOptimizations (by thosea)
+Fabric Language Kotlin (by modmuss50)
+Puzzles Lib [Forge & Fabric] (by Fuzs)
+Reese's Sodium Options (by FlashyReese)
+Packet Fixer (by TonimatasDEV)
+When Dungeons Arise - Fabric! (by Aureljz)
+CSD Pack (by Dseelis)
+Modern Industrialization (by thetechnici4n)
+Lootr (Fabric) (by Noobanidus)
+Concurrent Chunk Management Engine (Fabric) (by ishlandmc)
+Stoneworks [Forge & Fabric] (by Fuzs)
+Item Filters (by LatvianModder)
+Fabric Seasons (by D4rkness_King)
+[EMF] Entity Model Features [Fabric & Forge] (by traben_0)
+Entity Culling Fabric/Forge (by tr7zw)
+Language Reload (by Jerozgen)
+Farmer's Knives [Fabric] (by ianm1647)
+Botarium (by CodexAdrian)
+Interactic (by gliscowo)
+Eating Animation [Fabric] (by theone_ss)
+Majrusz's Enchantments (by Majrusz17)
+Konkrete [Fabric] (by Keksuccino)
+ModernFix (by embeddedt)
+YUNG's Better Ocean Monuments (Fabric) (by YUNGNICKYOUNG)
+BetterEnd (by Quiqueck)
+LazyDFU (by tuxed)
+Waystones (Fabric Edition) (by BlayTheNinth)
+Fresh Animations (by FreshLX)
+Extended Drawers (by MattiDragon)
+Legendary Tooltips [Fabric] (by Grend_G)
+Jade 🔍 (by Snownee)
+Amendments (by plantspookable)
+FTB Library (Fabric) (by FTB)
+Resourceful Config (by ThatGravyBoat)
+Ad Astra: Giselle Addon (by gisellevonbingen)
+Sodium (by jellysquid3_)
+Chassis (by Libra)
+Advancement Plaques [Fabric] (by Grend_G)
+AttributeFix (by DarkhaxDev)
