@@ -1,6 +1,6 @@
 Forge version: development is currently discontinued, may resume in the future 
 
-Fabric: active development 
+Fabric: discontinued 
 
 
 you can find our project on these websites:
