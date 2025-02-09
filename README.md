@@ -1,4 +1,5 @@
-Forge version: resumed
+Forge version: discontinued 
+
 
 Fabric: discontinued 
 
