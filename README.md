@@ -1,12 +1,12 @@
+# Steamcreate is no longer available on the modrinth
 Forge version: discontinued 
 
-
-Fabric: discontinued 
+Fabric: discontinued now only neoforge
 
 
 you can find our project on these websites:
 https://www.curseforge.com/minecraft/modpacks/steamcreatecsd
-https://modrinth.com/modpack/steamcreate-csd
+
 
 This project is inspired by another modpack, there will be new biomes, quests, building blocks, decorations, world generation.
 
