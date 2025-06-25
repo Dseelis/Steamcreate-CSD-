@@ -1,6 +1,3 @@
-# Steamcreate is no longer available on the modrinth
-![изображение](https://github.com/user-attachments/assets/787397c2-5ff3-4876-843b-6cacd991be0f)
-
 Forge version: discontinued 
 
 Fabric: discontinued now only neoforge
