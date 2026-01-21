@@ -1,5 +1,5 @@
-# Steamcreate2 is out on beta
-[CurseForge](https://www.curseforge.com/minecraft/modpacks/steamcreate2)
+# Steamcreate2 is out on beta [CurseForge](https://www.curseforge.com/minecraft/modpacks/steamcreate2)
+
 
 
 Forge version: discontinued 
